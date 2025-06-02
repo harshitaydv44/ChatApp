@@ -6,7 +6,7 @@ import BottomNav from '../components/BottomNav.jsx';
 const ChatBar = () => {
   return (
     <div className = "h-screen w-full flex ">
-        <ChatSidebar/>
+       
         <ChatWindow />
         <BottomNav />
         </div>
